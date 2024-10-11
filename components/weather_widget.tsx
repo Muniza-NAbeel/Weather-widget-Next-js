@@ -107,8 +107,8 @@ export default function WeatherWidget() {
         <div className="flex justify-center items-center h-screen bg-teal-50">
             <Card className="w-full max-w-md mx-auto text-center shadow-lg bg-teal-50 rounded-lg p-4">
                 <CardHeader>
-                    <CardTitle className="text-2xl font-bold text-teal-950">Weather Widget</CardTitle>
-                    <CardDescription className="text-teal-900">
+                    <CardTitle className="text-2xl font-bold text-teal-950 p-2">Weather Widget Project<br/>By Muniza Nabeel</CardTitle>
+                    <CardDescription className="text-teal-900 ">
                         Search for the Current Weather Conditions in your City.
                     </CardDescription>
                 </CardHeader>
